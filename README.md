@@ -94,10 +94,4 @@ OPENAI_API_KEY=your_openai_api_key
 GOOGLE_CLIENT_ID=your_google_client_id.apps.googleusercontent.com
 ```
 
-## MongoDB Shell Connection
-
-```bash
-mongosh "mongodb+srv://cluster0.rwykvcp.mongodb.net/" --apiVersion 1 --username mahamrashid682_db_user
-```
-
 The backend `.env` file already contains the Atlas driver connection string with the `smartchef` database name.
